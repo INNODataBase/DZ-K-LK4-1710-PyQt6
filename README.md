@@ -1,5 +1,6 @@
 # DZ-K-LK4-1710-PyQt6
 # Desktop Application - PyQt6
+<img width="1201" height="862" alt="image" src="https://github.com/user-attachments/assets/e46640f1-9c27-4765-860c-60a43c3adad7" />
 
 ## Описание проекта
 Десктопное приложение с двумя окнами: главное окно приветствия и окно профиля пользователя. Приложение демонстрирует работу с графическим интерфейсом на PyQt6.
